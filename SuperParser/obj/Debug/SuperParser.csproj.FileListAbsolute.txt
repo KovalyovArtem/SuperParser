@@ -1,0 +1,16 @@
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\SuperParser.exe.config
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\SuperParser.exe
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\SuperParser.pdb
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.csprojAssemblyReference.cache
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.Form1.resources
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.Properties.Resources.resources
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.csproj.GenerateResource.cache
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.csproj.CoreCompileInputs.cache
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.exe
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.pdb
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\AngleSharp.dll
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\AngleSharp.xml
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Программирование\OlapleshAcademyPrj\SuperParser\SuperParser\obj\Debug\SuperParser.csproj.CopyComplete
